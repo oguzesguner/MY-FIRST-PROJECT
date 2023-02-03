@@ -1,0 +1,16 @@
+img  {
+  height:200px;
+  width:300px;  
+}
+h1 {
+    color:orange;
+}
+body {
+    background-color: black;
+    color:white;
+}
+a {color:orange;}
+a:link { text-decoration: underline; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
